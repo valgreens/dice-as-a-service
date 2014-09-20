@@ -15,6 +15,7 @@
   "dependencies": {
     "hapi": "^6.8.1",
     "joi": "^4.7.0",
+    "newrelic": "^1.11.2",
     "node-dice-js": "^0.1.2"
   },
   "devDependencies": {

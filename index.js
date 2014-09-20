@@ -1,4 +1,5 @@
 'use strict';
+require('newrelic');
 
 var Hapi = require('hapi'),
     Dice = require('node-dice-js'),
