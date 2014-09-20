@@ -8,6 +8,10 @@
   },
   "author": "Antonio Valverde (@valgreens)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/valgreens/dice-as-a-service.git"
+  },
   "dependencies": {
     "hapi": "^6.8.1",
     "joi": "^4.7.0",

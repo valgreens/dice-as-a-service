@@ -4,7 +4,7 @@ var Hapi = require('hapi'),
     Dice = require('node-dice-js'),
     Joi = require('joi');
 
-var server = new Hapi.Server('localhost', 3000);
+var server = new Hapi.Server();
 
 server.route({
     method: 'GET',
